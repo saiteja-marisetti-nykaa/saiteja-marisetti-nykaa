@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saiteja-marisetti-nykaa
+- 👋 Hi, I’m Saiteja Marisetti
 - 👀 I’m interested in designing backend applications
 - 🌱 I’m currently learning Django framework
-- 📫 How to reach me by GitHub PR :p
+- 📫 How to reach me GitHub PR :p
 - ⚡ Fun fact: Tachyons can move back in time
 
 <!---
